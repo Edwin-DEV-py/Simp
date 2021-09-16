@@ -12,6 +12,8 @@ namespace WinFormsLibrary1
         public string Direccion { get; set; }
         public string Ciudad { get; set; }
         public string Telefono { get; set; }
+        public TipoDocumento Documento { get; set; }
+        public int N_documento { get; set; }
 
     }
 }
