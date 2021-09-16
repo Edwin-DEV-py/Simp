@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WinFormsLibrary1
 {
-    class Comprador
+    public class Comprador
     {
         public int Id { get; set; }
         public Persona datos_persona { get; set; }
